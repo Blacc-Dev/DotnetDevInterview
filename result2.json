@@ -6,7 +6,7 @@
     "amountInTurkish": "yüzon TL onbeş KR",
     "status": "Yeni",
     "orderSource": "Trendyol",
-    "trackingNumber": 42134123423143,
+    "trackingNumber": "42134123423143",
     "cargoName": "Sürat Kargo"
   },
   {
@@ -16,7 +16,7 @@
     "amountInTurkish": "beşbinikiyüzaltmışbeş TL yetmişaltı KR",
     "status": "Faturası Kesilen",
     "orderSource": "Hepsiburada",
-    "trackingNumber": 87879568567,
+    "trackingNumber": "87879568567",
     "cargoName": "Horoz Lojistik Kargo"
   }
 ]
