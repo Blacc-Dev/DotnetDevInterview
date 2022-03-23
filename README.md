@@ -2,7 +2,7 @@
 
 In this task you are expected to develop an ASP.Net application with api services which shows data of basic e-commerce system. 
 
-**** You must create branch which named {yourName-yourSurname} for your solution. ****
+****You must create branch which named {yourName-yourSurname} for your solution.****
 
 - Content 
   1) Entity framework core and code-first approach should be used. 
