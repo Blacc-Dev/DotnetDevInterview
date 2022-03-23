@@ -18,11 +18,10 @@ In this task you are expected to develop an ASP.Net application with api service
      - Fourth endpoint update cargo tracking number and cargo provider number. It takes 3 arguments which are order id, new cargo tracking number and cargo provider name. 
      - Fifth endpoint should return best selling products with name and avarage daily selling frequency. For calculating daily selling frequency you must find number of total sold product divided by total days between first order and last order of that product. (Example of expected result is given in result5.json)
 
-
 - Remarks
   1) Follow clean code fundamentals.
   2) Use OOP concepts when desinging and coding. 
   3) Try to use comments and readable parameters.  
   4) **Please ask if you have any questions about the task.** 
   5) You have 1 day to finish task. 
-  6) After finishing your task please commit all your works. 
+  6) After finishing your task please commit all your works.
