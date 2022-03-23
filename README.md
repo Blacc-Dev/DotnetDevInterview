@@ -1,4 +1,4 @@
-# DotnetDevInterview
+# Blacc DotNet Interview Task
 
 In this task you are expected to develop an ASP.Net application with api services which shows data of basic e-commerce system. 
 
