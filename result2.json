@@ -1,0 +1,22 @@
+[
+  {
+    "orderNumber": 1,
+    "orderDate": "23.03.2022",
+    "amount": 110.15,
+    "amountInTurkish": "yüzon TL onbeş KR",
+    "status": "Yeni",
+    "orderSource": "Trendyol",
+    "trackingNumber": 42134123423143,
+    "cargoName": "Sürat Kargo"
+  },
+  {
+    "orderNumber": 2,
+    "orderDate": "24.03.2022",
+    "amount": 5265.76,
+    "amountInTurkish": "beşbinikiyüzaltmışbeş TL yetmişaltı KR",
+    "status": "Faturası Kesilen",
+    "orderSource": "Hepsiburada",
+    "trackingNumber": 87879568567,
+    "cargoName": "Horoz Lojistik Kargo"
+  }
+]
