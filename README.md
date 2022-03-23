@@ -13,7 +13,7 @@ In this task you are expected to develop an ASP.Net application with api service
   6) Given json file content which is intended to seeding database should be saved in database. 
   7) You will implement 5 endpoints. 
       - First endpoint triggers saving json data to database. 
-     - Second endpoint returns list of orders with order number, order date, amount(eg: 684,50), amount in turkish(eg: altıyüz seksen dört TL elli KR), status in turkish name, order source, cargo tracking number and cargo name. This list also should have sort, search and pagination features. (Status enums given as status.txt in this repo.) (Expected result example given as result2.json in this repo.)
+     - Second endpoint returns list of orders with order number, order date, amount(eg: 684,50), amount in turkish(eg: altıyüz seksen dört TL elli KR), status in turkish name, order source, cargo tracking number and cargo name. This list also should have sort, search and pagination features. (Status enums given as status.txt in this repo.) (Example of expected result is given in result2.json)
      - Third endpoint returns order's lines as a list with product name, quantity, amount and amount in turkish(same as above).
      - Fourth endpoint update cargo tracking number and cargo provider number. It takes 3 arguments which are order id, new cargo tracking number and cargo provider name. 
      - Fifth endpoint should return best selling products with name and avarage monthly selling frequency. 
