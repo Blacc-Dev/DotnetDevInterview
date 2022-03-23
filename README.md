@@ -1,12 +1,13 @@
 # DotnetDevInterview
 
 In this task you are expected to develop an ASP.Net application with api services which shows data of basic e-commerce system. 
+**** You must create branch which named {yourName-yourSurname} for your solution. ****
 
 - Content 
   1) Entity framework core and code-first approach should be used. 
   2) MSSQL should be used and you should configure MSSQL in your code.  
   3) Your solution should have multi-layers which are Core, DataAccess, Entities, Business, API.  
-  4) You must create branch which named {yourName-yourSurname} for your solution. 
+  4) You should use swagger to serve your endpoints. 
   5) A json file is given for desinging models and creating database entities. Base entities are named as "Order", "Line" and "Cargo". If you need another classes you are free to create new one. 
   6) Given json file content should be saved in database. 
   7) You will implement 5 endpoints. 
