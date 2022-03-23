@@ -23,7 +23,7 @@ In this task you are expected to develop an ASP.Net application with api service
   2) Use OOP concepts when desinging and coding. 
   3) Try to use comments and readable parameters.  
   4) **Please ask if you have any questions about the task.** 
-  5) You have 1 day to finish task. 
+  5) You have 2 days to finish task. 
   6) After finishing your task please commit all your works.
 
 **Note: Some issues related with given seed data is not solved deliberately. You are expected to solve them.**
