@@ -1,10 +1,10 @@
 [
   {
     "productName": "Abc Telefon",
-    "frequency": 4.56,
+    "frequency": 4.56
   },
   {
     "productName": "Xyz buzdolabı",
-    "frequency": 0.22,
+    "frequency": 0.22
   }
 ]
