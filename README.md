@@ -14,7 +14,7 @@ In this task you are expected to develop an ASP.Net application with api service
   7) You will implement 5 endpoints. 
       - First endpoint triggers saving json data to database. 
      - Second endpoint returns list of orders with order number, order date, amount(eg: 684,50), amount in turkish(eg: altıyüz seksen dört TL elli KR), status in turkish name, order source, cargo tracking number and cargo name. This list also should have sort, search and pagination features. (Status enums is given in status.txt) (Example of expected result is given in result2.json)
-     - Third endpoint returns order's lines as a list with product name, quantity, amount and amount in turkish(same as above).
+     - Third endpoint returns given order's lines as a list with product name, quantity, amount and amount in turkish(same as above). It takes order id as an argument. (Example of expected result is given in result3.json)
      - Fourth endpoint update cargo tracking number and cargo provider number. It takes 3 arguments which are order id, new cargo tracking number and cargo provider name. 
      - Fifth endpoint should return best selling products with name and avarage monthly selling frequency. 
 
