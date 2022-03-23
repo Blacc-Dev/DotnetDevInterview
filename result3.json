@@ -1,0 +1,14 @@
+[
+  {
+    "productName": "Abc Telefon",
+    "quantity": 1,
+    "amount": 110.15,
+    "amountInTurkish": "yüzon TL onbeş KR",
+  },
+  {
+    "productName": "Xyz buzdolabı",
+    "quantity": 2,
+    "amount": 5265.76,
+    "amountInTurkish": "beşbinikiyüzaltmışbeş TL yetmişaltı KR",
+  }
+]
