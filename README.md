@@ -9,7 +9,7 @@ In this task you are expected to develop an ASP.Net application with api service
   2) MSSQL should be used and you should configure MSSQL in your code.  
   3) Your solution should have multi-layers which are Core, DataAccess, Entities, Business, API.  
   4) You should use swagger to serve your endpoints. 
-  5) A json file is given for desinging models and creating database entities. Base entities are named as "Order", "Line" and "Cargo". If you need another classes you are free to create new one. 
+  5) A json file named seed.json is given for desinging models and creating database entities. Base entities are named as "Order", "Line" and "Cargo". If you need another classes you are free to create new one. 
   6) Given json file content which is intended to seeding database should be saved in database. 
   7) You will implement 5 endpoints. 
       - First endpoint triggers saving json data to database. 
@@ -25,3 +25,5 @@ In this task you are expected to develop an ASP.Net application with api service
   4) **Please ask if you have any questions about the task.** 
   5) You have 1 day to finish task. 
   6) After finishing your task please commit all your works.
+
+**Note: Some issues related with given seed data is not solved deliberately. You are expected to solve them.**
