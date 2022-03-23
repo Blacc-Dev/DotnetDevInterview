@@ -25,5 +25,6 @@ In this task you are expected to develop an ASP.Net application with api service
   4) **Please ask if you have any questions about the task.** 
   5) You have 2 days to finish task. 
   6) After finishing your task please commit all your works.
+  7) Write your own Readme named as "Readme{yourName-yourSurname}" for your assumption and comments. 
 
 **Note: Some issues related with given seed data is not solved deliberately. You are expected to solve them.**
