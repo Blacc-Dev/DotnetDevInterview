@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Application\BlaccEnterprise.Interview.Application.csproj" />
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Domain\BlaccEnterprise.Interview.Domain.csproj" />
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Infrastructure.Converters.Currency\BlaccEnterprise.Interview.Converters.Currency.csproj" />
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Infrastructure.CrossCutting.Bus.InMemory\BlaccEnterprise.Interview.Infrastructure.CrossCutting.Bus.InMemory.csproj" />
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Infrastructure.CrossCutting.Identity\BlaccEnterprise.Interview.Infrastructure.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Infrastructure.Data.EFCore\BlaccEnterprise.Interview.Infrastructure.Data.EFCore.csproj" />
+  </ItemGroup>
+
+</Project>

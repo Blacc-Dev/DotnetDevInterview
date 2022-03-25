@@ -1,0 +1,40 @@
+﻿using System.ComponentModel;
+
+namespace BlaccEnterprise.Interview.Domain.Order.Enums
+{
+    public enum EOrderStatus : byte
+    {
+        [Description("NoStatus")]
+        NoStatus = 0,
+
+        [Description("Bekleyen")]
+        Awaiting = 1,
+
+        [Description("Yeni")]
+        New = 2,
+
+        [Description("Paketlenen")]
+        Picked = 3,
+
+        [Description("Faturası Kesilen")]
+        Invoiced = 4,
+
+        [Description("Kargolanan")]
+        Shipped = 6,
+
+        [Description("Teslim Edilen")]
+        Delivered = 7,
+
+        [Description("Teslim Edilemeyen")]
+        Undelivered = 8,
+
+        [Description("Ödemesi Tamamlanan")]
+        Paid = 10,
+
+        [Description("İade Sürecinde Olan")]
+        Returned = 11,
+
+        [Description("İptal Olan")]
+        Cancelled = 12,
+    }
+}
