@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>BlaccEnterprise.Interview.Converters.Currency</AssemblyName>
+    <RootNamespace>BlaccEnterprise.Interview.Converters.Currency</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlaccEnterprise.Interview.Infrastructure\BlaccEnterprise.Interview.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
